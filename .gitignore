@@ -1,0 +1,13 @@
+# Repository-level ignores
+# Ignore backend env
+/BACKEND/.env
+
+# Node modules
+**/node_modules
+
+# Vite build
+dist/
+
+# Editor files
+.vscode/
+.DS_Store
